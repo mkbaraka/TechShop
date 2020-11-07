@@ -1,0 +1,27 @@
+Owlotech Boom Mini ,Multimedia Speakers 2.1,Audio,19.9,9,aux,40,false
+Apple iPhone 11 Pro Max ,256GB Gris espacial Libre,Smartphone,1453.5,9,Ios 10.2,7,false
+MSI GF75,Intel Core i7-9750H/16GB/512GB SSD/GTX1650/17.3",Ordenador,1325.4,3,16GB,17,true
+Hisense 50B7100,50" LED UltraHD 4K,Television,257.1,3,LED UltraHD 4K,50,true
+Tacens Mars Gaming,Altavoces MS2,Audio,15.9,9,aux,40,true
+HyperX Cloud Flight,Auriculares Inálambricos Gaming,Audio,128.9,9,aux,20,true
+Harman Kardon Onyx 4,Altavoz Bluetooth Portátil 60W RMS Negro,Audio,114.8,8,aux,60,true
+Xiaomi Redmi Note 8T,4/64GB Azul Estelar Libre,Smartphone,142.1,5,Android 8.5,8,true
+Samson C01U Pro,Micrófono de Condensador USB Plata,Audio,87.0,9,usb,40,true
+Xiaomi Mi TV,TV 4A 32" LED HD,Television,147.9,3,LED HD,32,true
+Apple iPhone 11 Pro Max ,128GB Plata Libre,Smartphone,1353.5,9,Ios 10.2,7,false
+Apple Iphone 11,64GB Negro Libre,Smartphone,969.5,9,Ios 10.2,7,false
+LG 55UM7100PLB,55" LED UltraHD 4K,Television,336.3,6,LED UltraHD 4K,55,true
+Lenovo Ideapad S145-15AST ,AMD A9-9425/8GB/512GB SSD/15.6",Ordenador,419.0,9,8GB,15,true
+HP Notebook 250 G7,Intel Core i3-7020U/8GB/256 SSD/15.6",Ordenador,453.59,0,8GB,15,true
+Logitech Z213,Multimedia Speakers 2.1,Audio,29.9,8,usb,40,true
+Apple Iphone 11,128GB Negro Libre,Smartphone,1153.5,9,Ios 10.2,6,false
+Samsung UE43RU7105KXXC,43" LED UltraHD 4K,Television,271.9,0,LED UltraHD 4K,43,true
+Samsung UE50RU7172,50" LED UltraHD 4K,Television,313.2,2,LED UltraHD 4K,50,true
+Acer Predator Helios 300 ,Intel Core i7-8750H/16GB/2TB+16GB Intel Optane/GTX1050Ti/15.6,Ordenador,1099.9,9,16GB,15,false
+Samsung Galaxy A71,6/128GB Prism Crush Black,Smartphone,329.7,5,Android 9,7,true
+Apple Iphone x,128GB Blanco,Smartphone,759.9,9,Ios 10.3,6,false
+LG OLED55C9PLA,55" OLED UltraHD 4K,Television,1073.5,5,OLED UltraHD 4K,55,true
+Alcatel 1S,3/32GB Dual Sim Dorado Libre,Smartphone,73.5,5,Android 8.2,6,false
+HP Pavilion 15-BC512NS,Intel Core i5-9300H/16GB/1TB+128GB SSD/GTX 1650/15.6",Ordenador,635.5,4,16GB,15,true
+Samsung Galaxy S10 ,128 GB Negro Libre,Smartphone,495.0,4,Android 9.8,7,true
+Samsung Galaxy A30s,64 GB Negro Libre,Smartphone,453.5,9,Android 93,6,true
